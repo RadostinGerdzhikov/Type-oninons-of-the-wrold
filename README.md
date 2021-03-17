@@ -1,4 +1,4 @@
-# Type-oninons-of-the-wrold
+# Types-oninon-of-the-wrold
 - red onion
 - white onion
 > pink onion
