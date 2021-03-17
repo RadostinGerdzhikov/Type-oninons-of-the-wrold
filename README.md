@@ -6,6 +6,6 @@
 - normal Onion
     - onion Vegeterians
 The super usefull site for onion fans  
-[Click for onion](https::/www.onions-usa.org/){:target="_blank"}
-
+[Click for onion](https://www.onions-usa.org/)
+<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
   
